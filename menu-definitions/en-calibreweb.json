@@ -1,0 +1,11 @@
+{
+"intended_use":"webroot",
+"lang" : "en",
+"logo_url" : "calibre2.png",
+"menu_item_name" : "en-calibre-web",
+"moddir" : "calibre-web",
+"title" : "Calibre-web",
+"start_url" : "",
+"description":"Calibre Offline eBook Server."
+}
+

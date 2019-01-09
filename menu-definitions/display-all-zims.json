@@ -1,11 +1,10 @@
 
 {
-"intended_use":"zim",
+"intended_use":"webroot",
 "lang" : "en",
 "logo_url" : "220px-Wikipedia-logo-v2.svg.png",
 "menu_item_name" : "display-all-zims",
-"start_url" : "",
-"zim_name" : "",
+"moddir" : "kiwix",
 "title" : "Zim Collection",
 "description":"Amazing offline websites packaged by kiwix.",
 "extra_html":""
